@@ -5,7 +5,7 @@ This code will assign leg numbers to runners based on their top 3 preferences us
 References
 
 - [Hungarian Assignment](https://en.wikipedia.org/wiki/Hungarian_algorithm)
-- [SciPy Linear Sum Assignment](https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.optimize.linear_sum_assignment.html
+- [SciPy Linear Sum Assignment](https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.optimize.linear_sum_assignment.html)
 
 ## Prerequisites
 
